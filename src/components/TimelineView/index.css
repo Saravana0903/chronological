@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.main-con {
+  display: flex;
+  flex-direction: column;
+}
+.con-1 {
+  align-self: center;
+  text-align: center;
+}
